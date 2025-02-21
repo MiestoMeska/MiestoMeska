@@ -30,9 +30,9 @@ I'm a human deeply fascinated by how computers can make life easier.
 
 ## 💻 Technologies & Tools I Use 
 <p align="center">
-  <img src="./assets/icons/python.svg" alt="Python" width="50"/>
-  <img src="./assets/icons/javascript.svg" alt="JavaScript" width="50"/>
-  <img src="./assets/icons/docker.svg" alt="Docker" width="50"/>
+  <img src="./assets/icons/python-original.svg" alt="Python" width="50"/>
+  <img src="./assets/icons/javascript-original.svg" alt="JavaScript" width="50"/>
+  <img src="./assets/icons/nodejs-original-wordmark.svg" alt="nodejs" width="50"/>
   <img src="./assets/icons/tensorflow.svg" alt="TensorFlow" width="50"/>
   <img src="./assets/icons/pytorch.svg" alt="PyTorch" width="50"/>
 </p>
