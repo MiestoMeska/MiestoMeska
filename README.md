@@ -29,6 +29,16 @@ I'm a human deeply fascinated by how computers can make life easier.
 ---
 
 ## 💻 Technologies & Tools I Use 
+
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://www.anaconda.com/"><img src="./assets/icons/anaconda-original-wordmark.svg" alt="Anaconda" width="50"/></a></td>
+    <td align="center"><a href="https://jupyter.org/"><img src="./assets/icons/jupyter-original-wordmark.svg" alt="Jupyter" width="50"/></a></td>
+    <td align="center"><a href="https://www.docker.com/"><img src="./assets/icons/docker-original-wordmark.svg" alt="Docker" width="50"/></a></td>
+    <td align="center"><a href="https://code.visualstudio.com/"><img src="./assets/icons/vscode-original.svg" alt="Visual Studio Code" width="50"/></a></td>
+    <td align="center"><a href="https://wordpress.com/"><img src="./assets/icons/wordpress-original.svg" alt="WordPress" width="50"/></a></td>
+  </tr>
+</table>
 <p align="center">
   <a href="https://www.python.org/">
     <img src="./assets/icons/python-original.svg" alt="Python" width="50"/>
