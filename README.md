@@ -40,7 +40,6 @@ I'm a human deeply fascinated by how computers can make life easier.
 </table>
 <table align="center">
   <tr>
-    <td align="center"><a href="https://nodejs.org/"><img src="./assets/icons/nodejs-original-wordmark.svg" alt="Node.js" width="50"/></a></td>
     <td align="center"><a href="https://pytorch.org/"><img src="./assets/icons/pytorch-original-wordmark.svg" alt="PyTorch" width="50"/></a></td>
     <td align="center"><a href="https://numpy.org/"><img src="./assets/icons/numpy-original-wordmark.svg" alt="NumPy" width="50"/></a></td>
     <td align="center"><a href="https://pandas.pydata.org/"><img src="./assets/icons/pandas-original-wordmark.svg" alt="Pandas" width="50"/></a></td>
@@ -48,6 +47,7 @@ I'm a human deeply fascinated by how computers can make life easier.
     <td align="center"><a href="https://plotly.com/"><img src="./assets/icons/plotly-original-wordmark.svg" alt="Plotly" width="50"/></a></td>
     <td align="center"><a href="https://fastapi.tiangolo.com/"><img src="./assets/icons/fastapi-plain-wordmark.svg" alt="FastAPI" width="50"/></a></td>
     <td align="center"><a href="https://reactjs.org/"><img src="./assets/icons/react-original.svg" alt="React" width="50"/></a></td>
+    <td align="center"><a href="https://nodejs.org/"><img src="./assets/icons/nodejs-original-wordmark.svg" alt="Node.js" width="50"/></a></td>
   </tr>
 </table>
 <table align="center">
@@ -78,21 +78,34 @@ I'm a human deeply fascinated by how computers can make life easier.
 ---
 ## 🔗 Let’s Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vytautas-ruzgaila/" target="_blank">
-    <img src="./assets/icons/linkedin-original-wordmark.svg" alt="LinkedIn" width="50"/>
-  </a> 
-  <a href="https://kaggle.com/" target="_blank">
-    <img src="./assets/icons/kaggle-original-wordmark.svg" alt="Kaggle" width="50"/>
-  </a> 
-  <a href="mailto:V.S.Ruzgaila@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="50"/>
-  </a> 
-  <a href="https://github.com/MiestoMeska" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50"/>
-  </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/vytautas-ruzgaila/" target="_blank">
+        <img src="./assets/icons/linkedin-original-wordmark.svg" alt="LinkedIn" width="50"/>
+        <br/>LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/miestomeska" target="_blank">
+        <img src="./assets/icons/kaggle-original-wordmark.svg" alt="Kaggle" width="50"/>
+        <br/>Kaggle
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:V.S.Ruzgaila@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="50"/>
+        <br/>Email
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MiestoMeska" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50"/>
+        <br/>GitHub
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 GitHub Stats  
