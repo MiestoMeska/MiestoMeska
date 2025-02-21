@@ -23,7 +23,7 @@ I'm a human deeply fascinated by how computers can make life easier.
 ---
 
 ## 💻 Technologies & Tools I Use 
-- **Languages:** Python, JavaScript
+- **Languages:** Python, JavaScript ![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
 - **ML & AI:** PyTorch, TensorFlow, PyTorch Lightning
 - **Cloud:** AWS, Azure
 - **Web & App Dev:** FastAPI, Flutter
@@ -32,8 +32,8 @@ I'm a human deeply fascinated by how computers can make life easier.
 ---
 
 ## 🔗 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/vytautas-ruzgaila/)  
-- 📫 Email: [your.email@example.com](mailto:V.S.Ruzgaila@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vytautas-ruzgaila/)  
+- 📫 Email: [contact me](mailto:V.S.Ruzgaila@gmail.com)
 
 ---
 
