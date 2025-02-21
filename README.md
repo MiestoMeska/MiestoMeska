@@ -45,7 +45,8 @@ I'm a human deeply fascinated by how computers can make life easier.
 
 ## 📊 GitHub Stats  
 
-![snake animation](https://github.com/MiestoMeska/MiestoMeska/blob/output/github-contribution-grid-snake2.svg)
+![GitHub Snake Light](https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake.svg)
+![GitHub Snake Dark](https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake-dark.svg?palette=github-dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiestoMeska&layout=compact&theme=radical)
 
