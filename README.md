@@ -19,6 +19,12 @@ I'm a human deeply fascinated by how computers can make life easier.
 🚀 Building AI-powered solutions for **face recognition**, focusing on **age and gender prediction models**, deploying them to the **cloud**, and integrating them into **mobile applications** for real-time analysis.  
 🌐 Exploring **machine learning**, **computer vision**, and ethical AI systems.  
 🧩 Automating processes, improving user experience, and delivering scalable solutions.
+🐍 Fueling the GitHub snake with consistent contributions.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
 
@@ -45,11 +51,7 @@ I'm a human deeply fascinated by how computers can make life easier.
 
 ## 📊 GitHub Stats  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiestoMeska&layout=compact&theme=radical)
 
