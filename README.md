@@ -30,7 +30,7 @@ I'm a human deeply fascinated by how computers can make life easier.
 
 ## 💻 Technologies & Tools I Use 
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center"><a href="https://www.python.org/"><img src="./assets/icons/python-original.svg" alt="Python" width="50"/></a></td>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/icons/javascript-original.svg" alt="JavaScript" width="50"/></a></td>
@@ -38,7 +38,7 @@ I'm a human deeply fascinated by how computers can make life easier.
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/icons/css3-plain.svg" alt="CSS3" width="50"/></a></td>
   </tr>
 </table>
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center"><a href="https://pytorch.org/"><img src="./assets/icons/pytorch-original-wordmark.svg" alt="PyTorch" width="50"/></a></td>
     <td align="center"><a href="https://numpy.org/"><img src="./assets/icons/numpy-original-wordmark.svg" alt="NumPy" width="50"/></a></td>
@@ -50,7 +50,7 @@ I'm a human deeply fascinated by how computers can make life easier.
     <td align="center"><a href="https://nodejs.org/"><img src="./assets/icons/nodejs-original-wordmark.svg" alt="Node.js" width="50"/></a></td>
   </tr>
 </table>
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center"><a href="https://www.anaconda.com/"><img src="./assets/icons/anaconda-original-wordmark.svg" alt="Anaconda" width="50"/></a></td>
     <td align="center"><a href="https://jupyter.org/"><img src="./assets/icons/jupyter-original-wordmark.svg" alt="Jupyter" width="50"/></a></td>
@@ -59,7 +59,7 @@ I'm a human deeply fascinated by how computers can make life easier.
     <td align="center"><a href="https://wordpress.com/"><img src="./assets/icons/wordpress-original.svg" alt="WordPress" width="50"/></a></td>
   </tr>
 </table>
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center"><a href="https://www.mysql.com/"><img src="./assets/icons/mysql-original-wordmark.svg" alt="MySQL" width="50"/></a></td>
     <td align="center"><a href="https://www.sqlite.org/"><img src="./assets/icons/sqlite-original-wordmark.svg" alt="SQLite" width="50"/></a></td>
@@ -67,7 +67,7 @@ I'm a human deeply fascinated by how computers can make life easier.
     <td align="center"><a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html"><img src="./assets/icons/sqldeveloper-original.svg" alt="SQL Developer" width="50"/></a></td>
   </tr>
 </table>
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center"><a href="https://www.figma.com/"><img src="./assets/icons/figma-original.svg" alt="Figma" width="50"/></a></td>
     <td align="center"><a href="https://www.adobe.com/products/photoshop.html"><img src="./assets/icons/photoshop-original.svg" alt="Photoshop" width="50"/></a></td>
@@ -78,7 +78,7 @@ I'm a human deeply fascinated by how computers can make life easier.
 ---
 ## 🔗 Let’s Connect
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/vytautas-ruzgaila/" target="_blank">
