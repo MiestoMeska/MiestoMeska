@@ -18,7 +18,7 @@ I'm a human deeply fascinated by how computers can make life easier.
 ## 🤖 What I’m Working On  
 🚀 Building AI-powered solutions for **face recognition**, focusing on **age and gender prediction models**, deploying them to the **cloud**, and integrating them into **mobile applications** for real-time analysis.  
 🌐 Exploring **machine learning**, **computer vision**, and ethical AI systems.  
-🧩 Automating processes, improving user experience, and delivering scalable solutions.
+🧩 Automating processes, improving user experience, and delivering scalable solutions.  
 🐍 Fueling the GitHub snake with consistent contributions.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake-dark.svg?raw=true&palette=github-dark" />
