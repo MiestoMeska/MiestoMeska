@@ -29,18 +29,13 @@ I'm a human deeply fascinated by how computers can make life easier.
 ---
 
 ## 💻 Technologies & Tools I Use 
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![image](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) 
-
-![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) 
-
-![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) 
-
-![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-
+<p align="center">
+  <img src="./assets/icons/python.svg" alt="Python" width="50"/>
+  <img src="./assets/icons/javascript.svg" alt="JavaScript" width="50"/>
+  <img src="./assets/icons/docker.svg" alt="Docker" width="50"/>
+  <img src="./assets/icons/tensorflow.svg" alt="TensorFlow" width="50"/>
+  <img src="./assets/icons/pytorch.svg" alt="PyTorch" width="50"/>
+</p>
 ---
 
 ## 🔗 Let’s Connect
