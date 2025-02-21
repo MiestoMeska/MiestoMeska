@@ -23,7 +23,7 @@ I'm a human deeply fascinated by how computers can make life easier.
 ---
 
 ## 💻 Technologies & Tools I Use 
-- **Languages:** Python, JavaScript ![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
+- **Languages:** Python, JavaScript ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 - **ML & AI:** PyTorch, TensorFlow, PyTorch Lightning
 - **Cloud:** AWS, Azure
 - **Web & App Dev:** FastAPI, Flutter
