@@ -11,7 +11,7 @@ I'm a human deeply fascinated by how computers can make life easier.
 ⚡ Over the years, I’ve:  
 - Led **teams and projects**, combining leadership with hands-on technical work.  
 - Practiced **strategic thinking** in various dimensions—whether in **3D design**, **project management**, or **academic pursuits** in **architectural engineering** and **information systems engineering**, always building solutions block by block.
-- Fallen in love with **AI technology**, discovering how machines can think, analyze, and assist humans.
+- Fallen in love with **AI technology**, discovering how machines can analyze data, and assist humans.
 
 ---
 
@@ -38,8 +38,7 @@ I'm a human deeply fascinated by how computers can make life easier.
 ---
 
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiestoMeska&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiestoMeska&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiestoMeska&layout=compact&theme=radical)
 
 ---
 <!--
