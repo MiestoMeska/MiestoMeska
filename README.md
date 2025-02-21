@@ -102,6 +102,3 @@ I'm a human deeply fascinated by how computers can make life easier.
     </td>
   </tr>
 </table>
-
----
-
