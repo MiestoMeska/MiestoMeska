@@ -119,13 +119,13 @@ I'm a human deeply fascinated by how computers can make life easier.
 <p align="center">
   <a href="https://www.linkedin.com/in/vytautas-ruzgaila/" target="_blank">
     <img src="./assets/icons/linkedin-original-wordmark.svg" alt="LinkedIn" width="50" style="margin: 5;"/>
-  </a>
+  </a> &nbsp;
   <a href="https://kaggle.com/" target="_blank">
     <img src="./assets/icons/kaggle-original-wordmark.svg" alt="Kaggle" width="50" style="margin: 5;"/>
-  </a>
+  </a> &nbsp;
   <a href="mailto:V.S.Ruzgaila@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="50" style="margin: 5;"/>
-  </a>
+  </a> &nbsp;
   <a href="https://github.com/MiestoMeska" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50" style="margin: 5;"/>
   </a>
