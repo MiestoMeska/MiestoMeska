@@ -16,10 +16,10 @@ I'm a human deeply fascinated by how computers can make life easier.
 ---
 
 ## 🤖 What I’m Working On  
-🚀 Building AI-powered solutions for **face recognition**, focusing on **age and gender prediction models**, deploying them to the **cloud**, and integrating them into **mobile applications** for real-time analysis.  
+🚀 Building AI-powered solution for **face recognition**, focusing on **age and gender prediction models** and integrating it into **mobile applications** for real-time analysis.  
 🌐 Exploring **machine learning**, **computer vision**, and ethical AI systems.  
 🧩 Automating processes, improving user experience, and delivering scalable solutions.  
-🐍 Fueling the GitHub snake with consistent contributions.
+🐍 Feeding the GitHub snake with consistent contributions.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake-dark.svg?raw=true&palette=github-dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake.svg?raw=true" />
@@ -109,19 +109,3 @@ I'm a human deeply fascinated by how computers can make life easier.
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiestoMeska&layout=compact&theme=radical)
-
----
-<!--
-**MiestoMeska/MiestoMeska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
