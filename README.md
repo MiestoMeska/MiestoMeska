@@ -21,9 +21,9 @@ I'm a human deeply fascinated by how computers can make life easier.
 🧩 Automating processes, improving user experience, and delivering scalable solutions.
 🐍 Fueling the GitHub snake with consistent contributions.
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake-dark.svg?raw=true&palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake.svg?raw=true" />
+  <img alt="github-snake" src="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake.svg?raw=true" />
 </picture>
 
 ---
