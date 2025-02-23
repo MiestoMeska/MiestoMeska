@@ -76,6 +76,7 @@ I'm a human deeply fascinated by how computers can make life easier.
 
 
 ---
+
 ## 🔗 Let’s Connect
 
 <table align="center" border="0">
@@ -102,3 +103,7 @@ I'm a human deeply fascinated by how computers can make life easier.
     </td>
   </tr>
 </table>
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/MiestoMeska/count.svg)
