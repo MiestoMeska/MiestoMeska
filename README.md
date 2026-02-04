@@ -105,7 +105,3 @@ I'm a human deeply fascinated by how computers can make life easier.
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/MiestoMeska/count.svg" alt="Visitor Count">
-</p>
