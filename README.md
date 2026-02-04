@@ -87,11 +87,6 @@ I'm a human deeply fascinated by how computers can make life easier.
       </a>
     </td>
     <td align="center">
-      <a href="https://www.kaggle.com/miestomeska" target="_blank">
-        <img src="./assets/icons/kaggle-original-wordmark.svg" alt="Kaggle" width="50"/>
-      </a>
-    </td>
-    <td align="center">
       <a href="mailto:V.S.Ruzgaila@gmail.com" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="50"/>
       </a>
