@@ -16,7 +16,7 @@ Over the years, I’ve:
 ---
 
 ## What I’m Working On  
-Implementing Data managememnt solutions.
+Implementing Data managememnt solutions. 
 Exploring **machine learning**, **computer vision**, and AI systems.  
 Automating processes, improving user experience, and delivering scalable solutions.  
 Feeding the GitHub snake with consistent contributions.
