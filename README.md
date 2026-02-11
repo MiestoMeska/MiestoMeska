@@ -4,22 +4,22 @@ Welcome to my GitHub! Glad you stopped by.
 
 ---
 
-## 🧭 Who am I?  
+## Who am I?  
 I'm a human deeply fascinated by how computers can make life easier.  
-🔍 **Exploring automation** has been part of my journey—finding ways to reduce manual work and unlock new possibilities with technology.  
+**Exploring automation** has been part of my journey—finding ways to reduce manual work and unlock new possibilities with technology.  
 
-⚡ Over the years, I’ve:  
+Over the years, I’ve:  
 - Led **teams and projects**, combining leadership with hands-on technical work.  
 - Practiced **strategic thinking** in various dimensions—whether in **3D design**, **project management**, or **academic pursuits** in **architectural engineering** and **information systems engineering**, always building solutions block by block.
 - Fallen in love with **AI technology**, discovering how machines can analyze data, and assist humans.
 
 ---
 
-## 🤖 What I’m Working On  
-🚀 Building AI-powered solution for **face recognition**, focusing on **age and gender prediction models** and integrating it into **mobile applications** for real-time analysis.  
-🌐 Exploring **machine learning**, **computer vision**, and ethical AI systems.  
-🧩 Automating processes, improving user experience, and delivering scalable solutions.  
-🐍 Feeding the GitHub snake with consistent contributions.
+## What I’m Working On  
+Implementing Data managememnt solutions.
+Exploring **machine learning**, **computer vision**, and AI systems.  
+Automating processes, improving user experience, and delivering scalable solutions.  
+Feeding the GitHub snake with consistent contributions.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake-dark.svg?raw=true&palette=github-dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MiestoMeska/MiestoMeska/blob/output/github-snake.svg?raw=true" />
